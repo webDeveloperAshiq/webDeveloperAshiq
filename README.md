@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Design • Web Development • WordPress Development • Web Applications**
 
-- 📫 How to reach me **ashiqur0875@gmail.com**
+- 📫 How to reach me **webdevashiqur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
