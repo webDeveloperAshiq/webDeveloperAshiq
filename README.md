@@ -51,9 +51,9 @@
 <a href="https://github.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub" title="GitHub"/>
 </a>
-<a href="https://nodejs.org/" target="_blank">
+<!-- <a href="https://nodejs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" title="Node.js"/>
-</a>
+</a> -->
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" title="VS Code"/>
 </a>
