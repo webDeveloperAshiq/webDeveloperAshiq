@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdeveloperashiq&label=Profile%20views&color=0e75b6&style=flat" alt="webdeveloperashiq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdeveloperashiq" alt="webdeveloperashiq" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=webDeveloperAshiq" alt="GitHub Trophy" />
+</p>
 
 - 🌱 I’m currently learning **HTML5 • CSS3 • JavaScript • Bootstrap • jQuery • PHP • MySQL • WordPress**
 
