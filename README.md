@@ -183,15 +183,15 @@ Speed Optimization, Mobile Responsive & Basic SEO.
 <p align="center">
 
 <a href="https://fb.com/ashiqur0875" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" title="Facebook"/>
 </a>
 
-<a href="mailto:webdevashiqur@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+<a href="mailto:webdevashiqur@gmail.com" target="_blank">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" title="Gmail"/>
 </a>
 
 <a href="https://github.com/webDeveloperAshiq" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+<img src="https://cdn.simpleicons.org/github" width="42" title="GitHub"/>
 </a>
 
 </p>
