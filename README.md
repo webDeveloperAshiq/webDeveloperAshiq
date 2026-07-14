@@ -34,10 +34,104 @@ I enjoy building fast, responsive and user-friendly websites with **WordPress** 
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,php,mysql,wordpress,git,github,vscode"/>
+
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5"/>
+</a>
+
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript"/>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" title="Bootstrap"/>
+</a>
+
+<a href="https://jquery.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="50" height="50" alt="jQuery" title="jQuery"/>
+</a>
+
+<a href="https://www.php.net/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" title="PHP"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" title="MySQL"/>
+</a>
+
+<a href="https://wordpress.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="50" height="50" alt="WordPress" title="WordPress"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub" title="GitHub"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" title="VS Code"/>
+</a>
+
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### 🌐 WordPress & Web Development (Learning & Practice)
+
+Currently building responsive websites and WordPress projects while continuously improving my frontend and backend development skills.
+
+- 🌐 Responsive Website Development
+- 🛒 WordPress Website Development
+- 🎨 Landing Page Design
+- ⚙️ WordPress Customization
+- 🛍️ WooCommerce Setup
+- 🛠️ Website Maintenance & Bug Fixing
+
+---
+
+## 🚀 What I Do
+
+- 🌐 Build Responsive Business Websites
+- 🛒 Develop WordPress Websites
+- 🎨 Create Modern Landing Pages
+- ⚙️ Customize WordPress Themes & Plugins
+- 📱 Develop Mobile-Friendly Interfaces
+- ⚡ Optimize Website Speed & Performance
+- 🔍 Improve Basic On-Page SEO
+- 🛠️ Maintain & Update Websites
+
+---
+
+## ⚡ Core Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+
 </p>
 
 ---
