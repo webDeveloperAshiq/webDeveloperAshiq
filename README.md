@@ -181,15 +181,17 @@ Speed Optimization, Mobile Responsive & Basic SEO.
 ## 🌐 Let's Connect
 
 <p align="center">
+
 <a href="https://fb.com/ashiqur0875" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
 </a>
 
-<a href="mailto:webdevashiqur@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="45" height="45"/>
+<a href="mailto:webdevashiqur@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a>
 
 <a href="https://github.com/webDeveloperAshiq" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
 </a>
+
 </p>
