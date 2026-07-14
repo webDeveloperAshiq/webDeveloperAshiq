@@ -1,73 +1,94 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/webDeveloperAshiq/webDeveloperAshiq/main/assets/Ashiqur-Rahman-Web-Developer.png" width="100%" alt="Ashiqur Rahman Banner"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Web+Developer;WordPress+Developer;Frontend+Developer;Building+Modern+Responsive+Websites" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Ashiqur Rahman</h1>
-
-<p align="center">
-Passionate about creating clean, responsive and user-friendly websites.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=webDeveloperAshiq&label=PROFILE+VIEWS&style=for-the-badge&color=0E75B6"/>
-<img src="https://img.shields.io/github/followers/webDeveloperAshiq?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/webDeveloperAshiq?affiliations=OWNER&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OPEN%20TO-WORK-success?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 About Me
+## 👨‍💻 About Me
 
 I'm **Ashiqur Rahman**, a passionate **Web Developer** from **Bangladesh**.
 
-I enjoy building fast, responsive and user-friendly websites with **WordPress** and modern web technologies. My goal is to continuously improve my skills and deliver clean, high-quality web solutions.
+I enjoy building clean, responsive and user-friendly websites with **WordPress** and modern web technologies. My goal is to continuously improve my skills and create high-quality web solutions.
 
-- 🌱 Learning **HTML5, CSS3, JavaScript, PHP, MySQL & WordPress**
-- 💬 Ask me about **WordPress, Web Design & Frontend Development**
+- 🌱 Currently learning **HTML5, CSS3, JavaScript, Bootstrap, PHP, MySQL & WordPress**
+- 💬 Ask me about **Web Design, Web Development & WordPress**
 - 📄 Resume: <a href="https://drive.google.com/file/d/1MRUov6it3NtuwrKB27rVMXjHejOxPi32/view?usp=sharing">View My CV</a>
-- 📧 Email: **webdevashiqur@gmail.com**
+- 📫 Email: **webdevashiqur@gmail.com**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,php,mysql,wordpress,git,github,vscode"/>
+
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5"/>
+</a>
+
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript"/>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" title="Bootstrap"/>
+</a>
+
+<a href="https://jquery.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="50" height="50" alt="jQuery" title="jQuery"/>
+</a>
+
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" title="PHP"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" title="MySQL"/>
+</a>
+
+<a href="https://wordpress.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="50" height="50" alt="WordPress" title="WordPress"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub" title="GitHub"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" title="VS Code"/>
+</a>
+
 </p>
 
 ---
 
-## 💡 What I Build
+## 🚀 Services
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🌐 Business Websites
+### 🌐 Web Development
 
-Responsive business websites with clean layouts and modern design.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🛒 WordPress Solutions
-
-Elementor, WooCommerce, Landing Pages & Website Customization.
+Responsive websites using HTML, CSS, JavaScript, PHP & MySQL.
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### ⚡ Performance
+### 🛒 WordPress Development
 
-Speed Optimization, Mobile Responsive & Basic SEO.
+Business websites, Elementor, WooCommerce & Website Customization.
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡ Website Optimization
+
+Responsive Design, Speed Optimization & Basic SEO.
 
 </td>
 
@@ -84,12 +105,12 @@ Speed Optimization, Mobile Responsive & Basic SEO.
 
 ---
 
-## 🌐 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://fb.com/ashiqur0875">
-<img src="https://skillicons.dev/icons?i=facebook"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40"/>
 </a>
 
 <a href="mailto:webdevashiqur@gmail.com">
@@ -97,7 +118,7 @@ Speed Optimization, Mobile Responsive & Basic SEO.
 </a>
 
 <a href="https://github.com/webDeveloperAshiq">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 </a>
 
 </p>
