@@ -17,6 +17,7 @@
 - 🌱 I’m currently learning **HTML5 • CSS3 • JavaScript • Bootstrap • jQuery • PHP • MySQL • WordPress**
 
 - 💬 Ask me about **Web Design • Web Development • WordPress Development • Web Applications**
+- [![Resume](https://img.shields.io/badge/Resume-Download%20CV-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1_ClxoCbYdOiimXg7uaxLIC4S3wxOsYgp/view?usp=sharing)
 
 - 📫 How to reach me **webdevashiqur@gmail.com**
 
