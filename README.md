@@ -28,7 +28,7 @@ I'm **Ashiqur Rahman**, a passionate **Web Developer** from **Bangladesh**.
 I enjoy building fast, responsive and user-friendly websites with **WordPress** and modern web technologies. My goal is to continuously improve my skills and deliver clean, high-quality web solutions.
 
 - 🌱 Learning **HTML5, CSS3, JavaScript, PHP, MySQL & WordPress**
-- 💬 Ask me about **WordPress, Web Design & Frontend Development**
+- 💬 Ask me about **Web Design, Web Development & WordPress Development**
 - 📄 Resume: <a href="https://drive.google.com/file/d/1MRUov6it3NtuwrKB27rVMXjHejOxPi32/view?usp=sharing">View My CV</a>
 - 📧 Email: **webdevashiqur@gmail.com**
 
@@ -181,17 +181,15 @@ Speed Optimization, Mobile Responsive & Basic SEO.
 ## 🌐 Let's Connect
 
 <p align="center">
-
-<a href="https://fb.com/ashiqur0875">
-<img src="https://skillicons.dev/icons?i=facebook"/>
+<a href="https://fb.com/ashiqur0875" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="45" height="45"/>
 </a>
 
-<a href="mailto:webdevashiqur@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:webdevashiqur@gmail.com" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="45" height="45"/>
 </a>
 
-<a href="https://github.com/webDeveloperAshiq">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/webDeveloperAshiq" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
 </a>
-
 </p>
