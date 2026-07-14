@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/webDeveloperAshiq/webDeveloperAshiq/main/assetsAshiqur-Rahman-Web-Developer.png" alt="GitHub Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/webDeveloperAshiq/webDeveloperAshiq/main/assets/Ashiqur-Rahman-Web-Developer.png" alt="GitHub Banner" width="100%" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Web+Developer;Frontend+Developer;WordPress+Developer;Always+Learning+New+Technologies" />
